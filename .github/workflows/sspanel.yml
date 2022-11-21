@@ -3,7 +3,7 @@ name: sspanel
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "31 16 * * *"
   # watch:
     # types: [ started ]
 
